@@ -1,0 +1,17 @@
+script/*
+# !script/install-deps-linux.sh
+!script/codecov.sh.in
+
+.clang-format
+.codacy.yml
+.gitignore
+.pre-commit-config.yaml
+codecov.yml
+Makefile
+README.md
+
+# git
+.git/
+
+# Github
+.github/
